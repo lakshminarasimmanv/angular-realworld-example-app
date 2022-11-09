@@ -19,7 +19,7 @@ env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: hub.narasimman.xyz
   # github.repository as <account>/<repo>
-  IMAGE_NAME: ${{ lakshminarasimmanv/angular-app }}
+  IMAGE_NAME: angular-app
 
 
 jobs:
