@@ -1,0 +1,5 @@
+name: angular-app
+description: Demo Angular Application.
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
