@@ -80,6 +80,7 @@ jobs:
         with:
           service: ${{ env.SERVICE }}
           region: ${{ env.REGION }}
+          port: 80
           # NOTE: If required, update to the appropriate source folder
           source: ./
 
